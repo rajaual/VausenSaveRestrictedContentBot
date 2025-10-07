@@ -1,2 +1,2 @@
 echo "starting Bot ~@DroneBots";
-python3 -m main
+python-3.11.8 -m main
